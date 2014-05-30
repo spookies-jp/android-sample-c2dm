@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">みつけてわんこ</string>
+    <string name="register">登録</string>
+    <string name="register_message">アカウントの選択</string>
+    <string name="sender_id">16777215.likr@gmail.com</string>
+    <string name="pref_key_email">email</string>
+    <string name="pref_key_registration_id">registration_id</string>
+    <string name="main_message">ブラウザからこの端末のアラームを鳴らすことができます。下記URLをPCなどでブックマークしてください。</string>
+    <string name="app_url">http://192.168.1.75:8080/</string>
+    <string name="register_path">register</string>
+    <string name="received_message">ワンコがかかりました。画面をタッチするとアラームが止まります。</string>
+</resources>
